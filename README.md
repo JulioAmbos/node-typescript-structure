@@ -3,7 +3,10 @@
 <h3 align="center">
   Template de projeto Node.js
 </h3>
-<img src="public/nodejs.png" alt="Node" />
+
+<p align="center">
+  <img src="public/nodejs.png" alt="Node" width="100%">
+</p>
 
 ## :hammer: Modelo de projeto com Node.js, ESLint, TypeScript, Jest & Babel
 
