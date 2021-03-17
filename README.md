@@ -1,9 +1,9 @@
-# 🔥 Template de projeto NodeJS
+# 🔥 Template de projeto Node.js
 
 <h3 align="center">
   Template de projeto Node.js
 </h3>
-<img src="public/node.png" alt="Node" />
+<img src="public/nodejs.png" alt="Node" />
 
 ## :hammer: Modelo de projeto com Node.js, ESLint, TypeScript, Jest & Babel
 
@@ -42,3 +42,7 @@ yarn dev
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt) para mais detalhes.
+
+---
+
+Feito com ♥ by [Julio Moraes](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-ambos-moraes-2685381ba/)
