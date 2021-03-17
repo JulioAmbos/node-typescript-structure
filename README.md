@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="public/nodejs.png" alt="Node" width="100%">
+  <img src="public/nodejs.png" alt="Node" width="10%">
 </p>
 
 ## :hammer: Modelo de projeto com Node.js, ESLint, TypeScript, Jest & Babel
